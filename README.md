@@ -1,7 +1,7 @@
 # 🌸 Finja AI – Project Timeline + ALL PROJECTS
 
 > **Stand:** August 2025  
-> Übersicht aller wichtigen Schritte beim Aufbau von Finja AI – von den ersten Trainingsversuchen bis zum fertigen Memory-System.
+> Übersicht aller wichtigen Schritte beim Aufbau von Finja AI + ROADMAP!
 
 ---
 
